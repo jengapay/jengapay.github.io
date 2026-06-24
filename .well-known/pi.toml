@@ -1,0 +1,9 @@
+VERSION="2.0.0"
+
+[[CURRENCIES]]
+code="JPT"
+issuer="GACLIJDIBJQQZHDVLHH6GMEAAOR7MHFX4XICVCVEWTCYIOCSBLI72BK3"
+name="jengapay"
+desc="Token maalum kwa malipo ya ujenzi"
+display_decimals=7
+status="live"
